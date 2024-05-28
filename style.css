@@ -77,3 +77,10 @@ footer {
     color: white;
     font-size: 36px;
 }
+
+.Customer-top-bar {
+    color: black;
+    text-align: left;
+    padding-left: 25px;
+    background-color: #FF8E8F;
+}
