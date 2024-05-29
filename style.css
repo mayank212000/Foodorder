@@ -81,6 +81,15 @@ footer {
 .Customer-top-bar {
     color: black;
     text-align: left;
-    padding-left: 25px;
+
     background-color: #FF8E8F;
+}
+
+.grid_container {
+    display: grid;
+    grid-template-columns: 356px 356px 356px;
+    grid-template-rows: 456px;
+    gap: 15px;
+    justify-content: space-around;
+    margin-bottom: 21px;
 }
