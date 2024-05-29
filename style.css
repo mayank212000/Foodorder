@@ -89,7 +89,11 @@ footer {
     display: grid;
     grid-template-columns: 356px 356px 356px;
     grid-template-rows: 456px;
-    gap: 15px;
     justify-content: space-around;
     margin-bottom: 21px;
+}
+
+.py-5 {
+    background-color: #DA0C81;
+    padding-left: 8rem;
 }
