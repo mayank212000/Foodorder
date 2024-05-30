@@ -5,51 +5,50 @@
 }
 
 body {
-    background-color: #fdefdd;
-}
-
-.top-txt {
-
-    font-size: 21px;
-    font-family: "Sofia", cursive;
+    background-color: white;
 }
 
 header {
-    background-color: #FF9B9B;
-    margin: 0;
-    height: 62px;
+    background-color: #F7418F;
+
+
+}
+
+.container {
+    max-width: 100vw;
+    margin: 0 auto;
 }
 
 a {
     text-decoration: none;
-    font-size: 18px;
     color: white;
+    font-size: 19px;
+
+}
+
+.logotxt {
+    font-family: "Sofia", cursive;
+    font-size: 27px;
 }
 
 ul {
     list-style: none;
+    margin: 0;
 }
 
-.top-bar {
-    margin: 0;
-    max-width: 1200px;
-    margin: 0 auto;
+nav {
+
     display: flex;
     justify-content: space-between;
     align-items: center;
+
 }
 
-.menu ul {
+nav ul {
     display: flex;
-    justify-content: center;
     align-items: center;
     gap: 24px;
-    padding-top: 14px;
-}
-
-a:hover {
-    border-bottom: 1px solid black;
-
+    padding: 10px 0;
 }
 
 .mainimg {
@@ -59,7 +58,6 @@ a:hover {
     background-repeat: no-repeat;
     background-position: center;
 }
-
 
 .midtext {
 
