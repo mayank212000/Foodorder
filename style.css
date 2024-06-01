@@ -9,8 +9,7 @@ body {
 }
 
 header {
-    background-color: #F7418F;
-
+    background-color: #F875AA;
 
 }
 
@@ -22,7 +21,8 @@ header {
 a {
     text-decoration: none;
     color: white;
-    font-size: 19px;
+    font-size: 21px;
+
 
 }
 
