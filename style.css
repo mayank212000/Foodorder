@@ -127,13 +127,6 @@ figcaption {
     font-size: 36px;
 }
 
-.Customer-top-bar {
-    color: black;
-    text-align: left;
-
-    background-color: #FF8E8F;
-}
-
 .grid_container {
     display: grid;
     grid-template-columns: 356px 356px 356px;
