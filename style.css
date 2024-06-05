@@ -135,6 +135,18 @@ figcaption {
     margin-bottom: 21px;
 }
 
+.card-text {
+    padding: 0 !important;
+    text-align: left !important;
+}
+
+.card-img-top>img {
+    object-fit: cover;
+    height: 202px;
+    margin: 0 auto;
+    padding: 12px 26px;
+}
+
 .py-3 {
     background-color: #FF8E8F;
 
